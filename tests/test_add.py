@@ -9,5 +9,5 @@ def test_addexample():
 def test_subexample():
     assert sub(3,2) == 1
     assert sub(-1,-1) == 0
-    assert sub(2,-5) ==-3
+    assert sub(2,-5) == 7
     assert sub(0,0) == 0
